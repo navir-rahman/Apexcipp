@@ -32,17 +32,6 @@ class Slider extends React.Component {
                                     <p>We are waiting for your call.</p>
                                 </Carousel.Caption>
                             </Carousel.Item>
-                            <Carousel.Item className="slider-item">
-                                <img
-                                    className="d-block w-100"
-                                    src="https://picsum.photos/500/300?img=1"
-                                    alt="First slide"
-                                />
-                                <Carousel.Caption>
-                                    <h3>First slide label</h3>
-                                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-                                </Carousel.Caption>
-                            </Carousel.Item>
                         </Carousel>
                     </div>
                 </div>
